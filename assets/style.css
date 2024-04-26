@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  color: #635e54;
+}
+header,
+main {
+  width: 100vw;
+}
+.main img,
+.main iframe {
+  width: 60%;
+  margin: 20px auto;
+}
+.py-2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.text-big{
+    font-size: 70px;
+}
