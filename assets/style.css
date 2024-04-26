@@ -8,11 +8,13 @@ header,
 main {
   width: 100vw;
 }
-.main img,
-.main iframe {
-  width: 60%;
+
+.main img {
+  width: 80%;
+  height: 100%;
   margin: 20px auto;
 }
+
 .py-2{
     padding-top: 20px;
     padding-bottom: 20px;
