@@ -4,10 +4,13 @@
   text-align: center;
   color: #635e54;
 }
-header,
-main {
-  width: 85vw;
-  margin: auto;
+
+.header{
+  background-image: url(./imgs/img1.jpeg);
+  background-position: center top;
+  .panner{
+    background-color: #ffffff8c;
+  }
 }
 .header img{
     max-height: 100%;
