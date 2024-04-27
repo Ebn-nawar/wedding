@@ -6,15 +6,23 @@
 }
 
 .header{
-  background-image: url(./imgs/img1.jpeg);
-  background-position: center top;
+  background-image: url(./imgs/2.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   .panner{
-    background-color: #ffffff8c;
+    background-color: #00000044;
+    
   }
 }
 .header img{
     max-height: 100%;
-    width: 100%;
+    width: 50%;
+}
+.main{
+  .iframe-video{
+    height: 30vh;
+  }
 }
 .main img {
   width: 100%;
