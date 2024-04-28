@@ -5,6 +5,16 @@
   color: #635e54;
 }
 
+button{
+  position: fixed; 
+  bottom: 5px;
+  right: 5px;
+  background-color: #635e54;
+  color: #fff;
+  padding: 5px;
+  border: 0;
+  border-radius: 5px;
+}
 .header{
   background-image: url(./imgs/1.jpg);
   background-size: cover;
