@@ -8,10 +8,10 @@
 button{
   position: fixed; 
   bottom: 5px;
-  right: 5px;
+  right: 15px;
   background-color: #635e54;
   color: #fff;
-  padding: 5px;
+  padding: 10px;
   border: 0;
   border-radius: 5px;
 }
